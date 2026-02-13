@@ -1,0 +1,9 @@
+﻿  test.cpp
+D:\C++方向\C++\代码\code_01\code_01\test.cpp(340,2): error C2668: “f1”: 对重载函数的调用不明确
+      D:\C++方向\C++\代码\code_01\code_01\test.cpp(315,6):
+      可能是“void f1(int)”
+      D:\C++方向\C++\代码\code_01\code_01\test.cpp(310,6):
+      或    “void f1(void)”
+      D:\C++方向\C++\代码\code_01\code_01\test.cpp(340,2):
+      尝试匹配参数列表“()”时
+  
