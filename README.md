@@ -1,5 +1,5 @@
 # C-Plus-plus_code
-The source code from a beginner’s C++ learning process is published in corresponding blog posts on Juejin (掘金).
+The source code from a beginner’s C++ learning process is published in corresponding blog posts on Juejin (掘金):https://juejin.cn/column/7604697194794352650
 ### Software  
 The entire workflow uses VS2022.
 
