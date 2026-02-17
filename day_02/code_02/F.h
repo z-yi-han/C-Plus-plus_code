@@ -1,0 +1,11 @@
+#pragma once
+#pragma once
+#include <iostream>
+using namespace std;
+
+//inline void f(int i);
+
+inline void f(int i)
+{
+	cout << i << endl;
+}
