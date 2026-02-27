@@ -1,0 +1,21 @@
+﻿  test.cpp
+D:\C++方向\C++\代码\code_04\code_04_add_03\code_04_add_03\test.cpp(151,8): error C2440: “初始化”: 无法从“int”转换为“A”
+      D:\C++方向\C++\代码\code_04\code_04_add_03\code_04_add_03\test.cpp(151,8):
+      class“A”的构造函数声明为“explicit”
+  
+D:\C++方向\C++\代码\code_04\code_04_add_03\code_04_add_03\test.cpp(156,15): error C2440: “初始化”: 无法从“int”转换为“const A &”
+      D:\C++方向\C++\代码\code_04\code_04_add_03\code_04_add_03\test.cpp(156,15):
+      原因如下: 无法从“int”转换为“const A”
+      D:\C++方向\C++\代码\code_04\code_04_add_03\code_04_add_03\test.cpp(156,15):
+      class“A”的构造函数声明为“explicit”
+  
+D:\C++方向\C++\代码\code_04\code_04_add_03\code_04_add_03\test.cpp(162,5): error C2664: “void Stack::Push(const A &)”: 无法将参数 1 从“int”转换为“const A &”
+      D:\C++方向\C++\代码\code_04\code_04_add_03\code_04_add_03\test.cpp(162,10):
+      原因如下: 无法从“int”转换为“const A”
+      D:\C++方向\C++\代码\code_04\code_04_add_03\code_04_add_03\test.cpp(162,10):
+      class“A”的构造函数声明为“explicit”
+      D:\C++方向\C++\代码\code_04\code_04_add_03\code_04_add_03\test.cpp(137,7):
+      参见“Stack::Push”的声明
+      D:\C++方向\C++\代码\code_04\code_04_add_03\code_04_add_03\test.cpp(162,5):
+      尝试匹配参数列表“(int)”时
+  
