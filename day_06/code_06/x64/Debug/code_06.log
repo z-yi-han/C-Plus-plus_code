@@ -1,0 +1,7 @@
+﻿  test.cpp
+D:\C++方向\C++\代码\code_06\code_06\test.cpp(71,23): warning C4244: “参数”: 从“double”转换到“const T”，可能丢失数据
+D:\C++方向\C++\代码\code_06\code_06\test.cpp(71,23): warning C4244:         with
+D:\C++方向\C++\代码\code_06\code_06\test.cpp(71,23): warning C4244:         [
+D:\C++方向\C++\代码\code_06\code_06\test.cpp(71,23): warning C4244:             T=int
+D:\C++方向\C++\代码\code_06\code_06\test.cpp(71,23): warning C4244:         ]
+  code_06.vcxproj -> D:\C++方向\C++\代码\code_06\x64\Debug\code_06.exe
