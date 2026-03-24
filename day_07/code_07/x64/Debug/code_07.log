@@ -1,3 +1,0 @@
-﻿  test.cpp
-D:\C++方向\C++\代码\code_07\code_07\test.cpp(29,7): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
-  code_07.vcxproj -> D:\C++方向\C++\代码\code_07\x64\Debug\code_07.exe
